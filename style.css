@@ -1,0 +1,13 @@
+.clockStyle {
+  margin: 0px auto;
+  width: 400px;
+  background-color: #960b65;
+  border: 5px solid #ededee;
+  border-radius: 10px;
+  height: 100px;
+  color: #0ca0c5;
+  padding-top: 30px;
+  font-size: 70px;
+  text-align: center;
+  letter-spacing: 2px;
+}
